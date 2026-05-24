@@ -1,35 +1,75 @@
-# paper-reading-notes
+# 📄 Paper Reading Notes
 
-> Research paper summaries and literature review notes
+> Summaries and insights from research papers in AI, Machine Learning, NLP, and related fields.
 
-## Problem Statement
+## 📌 How I Take Notes
 
+For each paper, I create a structured summary:
 
-## Objective
+```markdown
+# Paper Title
 
+**Authors**: 
+**Year**: 
+**Venue**: 
+**Link**: 
 
-## Tech Stack
+## Problem
+What problem does this paper solve?
 
-| Technology | Purpose |
-|---|---|
-| Python 3.11 | Core language |
+## Approach
+How do they solve it? Key methodology.
 
-## Getting Started
+## Key Findings
+Main results and insights.
 
-```bash
-git clone https://github.com/jyothigganachari-ai/paper-reading-notes.git
-cd paper-reading-notes
-pip install -r requirements.txt
+## Strengths
+What's good about this paper?
+
+## Limitations
+What could be improved?
+
+## My Takeaways
+What did I learn? How can I use this?
+
+## Related Papers
+Links to related work.
 ```
 
-## Results
+## 📚 Papers Read
 
+| # | Title | Area | Date | Summary |
+|---|---|---|---|---|
+| | Coming soon... | | | |
 
-## Author
+## 🔬 Focus Areas
 
-**Jyothi G G**
-- GitHub: [@jyothigganachari-ai](https://github.com/jyothigganachari-ai)
-- M.Tech AI & Data Science
+- Natural Language Processing (NLP)
+- Large Language Models (LLMs)
+- Retrieval Augmented Generation (RAG)
+- AI in Healthcare
+- Explainable AI (XAI)
+- Computer Vision
+
+## 📁 Structure
+
+```
+paper-reading-notes/
+├── NLP/
+├── LLM/
+├── RAG/
+├── Healthcare-AI/
+├── Explainable-AI/
+├── Computer-Vision/
+└── templates/
+    └── paper-template.md
+```
+
+## 👩‍💻 Author
+
+**Jyothi G G**  
+M.Tech AI & Data Science  
+GitHub: [@jyothigganachari-ai](https://github.com/jyothigganachari-ai)
 
 ---
-*Made with love as part of my AI learning journey*
+*Reading papers is training your brain on state-of-the-art.*
